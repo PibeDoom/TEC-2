@@ -60,7 +60,7 @@ body {
 
 .header {
     height: 60vh !important;
-    background:  <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=2842563147"> no-repeat center;
+    background:  url(img/Patio\ exterior.png) no-repeat center;
     background-size: cover;
 }
 
